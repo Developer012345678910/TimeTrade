@@ -70,5 +70,3 @@ Steps:
 2. Close your browser. (optional)
 
 Now the project should be stopped.
-
-AC UO 3012
